@@ -11,10 +11,10 @@ A simple, responsive calculator built with **HTML5**, **CSS3**, and basic JavaSc
 <image-card alt="Desktop View" src="Screenshot2026-03-04-145133.png" ></image-card>
 
 **Mobile view 1:**
-<image-card alt="Mobile View 1" src="mobileview1.jpg" ></image-card>   <!-- or mobileview-1.jpg or whatever exact name -->
+<image-card alt="mobile view 1" src="mobileview1.jpg" ></image-card>   <!-- or mobileview-1.jpg or whatever exact name -->
 
 **Mobile view 2:**
-<image-card alt="Mobile View 2" src="mobileview2.jpg" ></image-card>   <!-- same for second one -->
+<image-card alt="mobile view 2" src="mobileview2.jpg" ></image-card>   <!-- same for second one -->
 
 ## Features
 - Basic arithmetic operations (+, −, ×, ÷)
