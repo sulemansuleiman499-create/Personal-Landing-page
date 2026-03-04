@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suleiman | Coder & Digital Marketer</title>
+</head>
+<body style="margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #f5f6fa; color: #333; text-align: center;">
+
+    <!-- Header Section -->
+    <div style="background-color: #2d89ef; padding: 40px 20px; color: white;">
+        <img src="https://i.ibb.co/C3V5Y3s0/1000000440.png" alt="1000000440" border="0" 
+             alt="Suleiman Suleman" 
+             width="180" 
+             height="180" 
+             style="border-radius: 50%; border: 5px solid white; margin-bottom: 15px;">
+        <h1 style="margin: 10px 0 5px;">Hi, I'm Suleiman Suleman</h1>
+        <h3 style="margin: 0;">Coder • Digital Marketer • Creative Thinker</h3>
+    </div>
+
+    <!-- About Section -->
+    <div style="max-width: 700px; margin: 40px auto; background-color: white; padding: 25px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <h2 style="color: #2d89ef; margin-bottom: 10px;">About Me</h2>
+        <p style="line-height: 1.6;">
+            I’m a passionate developer and digital marketer who loves creating innovative digital solutions. 
+            I help brands build strong online presence through websites, content marketing, and social media strategies. 
+            My goal is to use creativity and technology to drive growth for businesses.
+        </p>
+    </div>
+
+    <!-- Services Section -->
+    <div style="max-width: 700px; margin: 20px auto; background-color: white; padding: 25px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <h2 style="color: #2d89ef;">What I Do</h2>
+        <ul style="list-style: none; padding: 0; line-height: 1.8; font-size: 16px;">
+            <li>💻 Website Design & Development</li>
+            <li>📱 Social Media Management</li>
+            <li>📈 Digital Marketing Strategy</li>
+            <li>🎨 Branding & Creative Content</li>
+        </ul>
+    </div>
+
+    <!-- Contact Section -->
+    <div style="max-width: 700px; margin: 20px auto; background-color: white; padding: 25px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <h2 style="color: #2d89ef;">Get in Touch</h2>
+        <p style="font-size: 16px;">
+            📧 <a href="mailto:sulemansuleiman499@gmail.com" style="color: #2d89ef; text-decoration: none;">sulemansuleiman499@gmail.com</a><br>
+            📞 <a href="tel:+2348168236654" style="color: #2d89ef; text-decoration: none;">+234 8168236654</a>
+        </p>
+    </div>
+
+    <!-- Footer -->
+    <div style="background-color: #2d89ef; color: white; padding: 15px 0; margin-top: 40px;">
+        <p style="margin: 0;">© 2025 Suleiman Suleman | All Rights Reserved</p>
+    </div>
+
+</body>
+</html>
